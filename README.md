@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/TienDat8605">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Backend+Developer+%E2%9A%99%EF%B8%8F;AI-driven+Applications+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;AI-driven+Applications" alt="Typing SVG" />
   </a>
 </p>
 <h3 align="center">from Vietnam 🇻🇳</h3>
@@ -45,7 +45,7 @@
   <a href="https://github.com/TienDat8605">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TienDat8605&theme=radical&hide_border=true&background=0D1117" alt="Dat's GitHub Streak" width="48%" />
   </a>
-</p>>
+</p>
 
 ---
 
