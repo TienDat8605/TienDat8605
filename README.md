@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Dat (Nguyễn Tiến Đạt)</h1>
 <p align="center">
   <a href="https://github.com/TienDat8605">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Backend+Developer+%E2%9A%99%EF%B8%8F;AI-driven+Applications+%F0%9F%A4%96;Distributed+Architecture+%F0%9F%8C%90" alt="Typing SVG" />
@@ -9,16 +8,6 @@
 <p align="center">
   I'm an undergraduate at <strong>VNUHCM – University of Science</strong> (Advanced Program in Computer Science), specializing in backend systems, AI-driven applications, and distributed architecture. I love building scalable APIs, semantic search engines, and multimodal recommendation systems.
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **Education:** Pursuing a B.S. in Computer Science at HCMUS (GPA: 3.5).
-- 🏆 **Recent Achievements:** Runner-up at Lotus Hackathon 2026 and Top 50 Qualifier at Zalo AI Challenge (Nov 2025).
-- 📝 **Publications:** Co-authored _Comprehensive Analysis of AI-synthetic Image Detection Architecture_ (FAIR 2025).
-- 💡 **Interests:** GraphRAG, LLM pipelines, real-time data processing, and microservice architectures.
-- 📫 **How to reach me:** [redknight785@gmail.com](mailto:redknight785@gmail.com)
 
 ---
 
