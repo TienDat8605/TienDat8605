@@ -39,8 +39,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TienDat8605&show_icons=true&theme=radical" alt="Dat's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TienDat8605&theme=radical" alt="Dat's GitHub Streak" width="48%" />
+  <a href="https://github.com/TienDat8605">
+    <img src="https://github-readme-stats.vercel.app/api?username=TienDat8605&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Dat's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/TienDat8605">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TienDat8605&theme=radical&hide_border=true&background=0D1117" alt="Dat's GitHub Streak" width="48%" />
+  </a>
 </p>
 
 ---
